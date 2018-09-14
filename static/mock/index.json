@@ -1,0 +1,146 @@
+{
+    "ret": true,
+    "data": {
+        "swiperList": [{
+            "id": "0001",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/cf/635b32c6ad0a1a02.jpg_890x330_c6f620c8.jpg"
+          },{
+            "id": "0002",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1808/2f/6fdf238bc5b2302.jpg_890x330_ba39283c.jpg"
+          },{
+            "id": "0003",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/b6/23980fda69a67d02.jpg_890x330_fe885a29.jpg"
+          },{
+            "id": "0004",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1808/9c/2415caaa7d469002.jpg_890x330_9558dbc4.jpg"
+        }],
+        "iconList": [
+            {
+                "id": "001",
+                "src": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                "desc": "景点门票"
+            },
+            {
+                "id": "002",
+                "src": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+                "desc": "广州必游"
+            },
+            {
+                "id": "003",
+                "src": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+                "desc": "动植物园"
+            },
+            {
+                "id": "004",
+                "src": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+                "desc": "游乐场"
+            },
+            {
+                "id": "005",
+                "src": "http://img1.qunarzz.com/piao/fusion/1803/89/55083b0f1951f302.png",
+                "desc": "两江夜游"
+            },
+            {
+                "id": "006",
+                "src": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png",
+                "desc": "夏日玩水"
+            },
+            {
+                "id": "007",
+                "src": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+                "desc": "一日游"
+            },
+            {
+                "id": "008",
+                "src": "http://img1.qunarzz.com/piao/fusion/1808/8d/747c9a29b8dba402.png",
+                "desc": "网红套餐"
+            },
+            {
+                "id": "009",
+                "src": "http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png",
+                "desc": "玩转长隆"
+            },
+            {
+                "id": "010",
+                "src": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+                "desc": "全部玩乐"
+            }
+        ],
+        "recommendList": [
+            {
+                "id": "0001",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1709/41/411f234d79457081a3.img.jpg_200x200_ea02ef99.jpg",
+                "title": "长隆野生动物世界",
+                "desc": "野生动物世界考拉园：“欢欢”和“乐乐”，还有“四代同堂”的考拉大家族，将给游客带来更多欢乐！"
+            }, 
+            {
+                "id": "0002",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1707/47/477416df92210439a3.img.jpg_200x200_b9e4ac2c.jpg",
+                "title": "长隆欢乐世界",
+                "desc": "体会高声尖笑，挑战你的青春荷尔蒙，唤醒你的冒险细胞。"
+            }, 
+            {
+                "id": "0003",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1507/9e/7b5e0a44cb0310280b1aeb2a8dd94de8.water.jpg_200x200_3c429960.jpg",
+                "title": "长隆国际大马戏剧院",
+                "desc": "魔幻开启：咚咚咚”小女孩在一阵敲门声中惊醒，眼前天空一片星海"
+            }, 
+            {
+                "id": "0004",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1707/ab/abb70c851caaa6d8a3.img.jpg_200x200_b902dd9e.jpg",
+                "title": "长隆水上乐园",
+                "desc": "哇~和粑粑麻麻一起到水上乐园来消暑，好开心！！！"
+            }, 
+            {
+                "id": "0005",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1601/3d/3dc7f222d6bca6a790.img.jpg_200x200_e0bb3017.jpg",
+                "title": "广州花城汇MAG环球魔幻世界",
+                "desc": "3D夜光森林——“MAG夜光森林”进入不同与以往的立体画世界"
+            },
+            {
+                "id": "0006",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1709/5d/5d986aff376ff248a3.img.jpg_200x200_d1ff8bc0.jpg",
+                "title": "广州正佳极地海洋世界",
+                "desc": "集观赏、娱乐、休闲、科普、环保于一体的梦幻主题式极地海洋体验"
+            },
+            {
+                "id": "0007",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1605/56/568488164697e2f590.img.jpg_200x200_967bd139.jpg",
+                "title": "越美冰雪大世界",
+                "desc": "穿着厚厚的羽绒服走进园内，首先进入的是一组奇妙的时光隧道，这里连接了暖洋洋的外界和整个冰封雪冻的项目"
+            }
+        ],
+        "weekendList": [
+            {
+                "id": "0001",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/92/580e9ea4f37a1b.jpg_r_640x214_72112761.jpg",
+                "title": "广州必游TOP10",
+                "desc": "感受现代与传统相融合的广州"
+            }, 
+            {
+                "id": "0002",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1606/88/56f7f4bd0493fe.jpg_r_640x214_f8c0994a.jpg",
+                "title": "签到广州长隆",
+                "desc": "来广州来长隆，就对了，就够了~"
+            }, 
+            {
+                "id": "0003",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/50/07fa9343791682.jpg_r_640x214_c8c3d798.jpg",
+                "title": "自然户外好去处",
+                "desc": "快快来到户外，感受花城的魅力"
+            }, 
+            {
+                "id": "0004",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/ec/902725c4d56517.jpg_r_640x214_7a74d251.jpg",
+                "title": "羊城民俗风情游",
+                "desc": "品味羊城文化，感受羊城别样风情"
+            }, 
+            {
+                "id": "0005",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/6f/bf9ef732f8ad2e.jpg_r_640x214_c759559e.jpg",
+                "title": "宝贝亲子游乐地",
+                "desc": "宝贝闲不住，我们去哪儿呀"
+            }
+        ]
+    }
+}

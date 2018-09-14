@@ -1,0 +1,48 @@
+{
+	"ret": true,
+	"data": {
+	  "sightName": "大连圣亚海洋世界(AAAA景区)",
+	  "bannerImg": "http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_600x330_bf9c4904.jpg",
+	  "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_800x800_70debc93.jpg", "http://img1.qunarzz.com/sight/p0/1709/76/7691528bc7d7ad3ca3.img.png_800x800_9ef05ee7.png"],
+	  "categoryList": [{
+		  "title": "成人票",
+		  "children": [{
+			"title": "成人三馆联票",
+			"children": [{
+			  "title": "成人三馆联票 - 某一连锁店销售"
+			}]
+		  },{
+			"title": "成人五馆联票"
+		  }]
+		}, {
+		  "title": "学生票"
+		}, {
+		  "title": "儿童票"
+		}, {
+		  "title": "特惠票"
+		}],
+			
+		"comments": [{
+			"star": 5,
+			"user": "user1",
+			"date": "2018-8-17",
+			"content": "每当出现问题时，我最常做出的姿态不是倾听，而是抱怨。一段恋情下来，我总结的关键词不是合作而是攻击。",
+			"imgs": [
+				"https://imgs.qunarzz.com/p/tts1/1808/87/af09b7666fcae202.jpg_228x168_ff41ffb5.jpg",
+				"https://imgs.qunarzz.com/p/tts4/1808/be/8b796f033bae6802.jpg_228x168_0331e2d1.jpg",
+				"https://imgs.qunarzz.com/p/tts8/1808/bc/3dedb68a278c3f02.jpg_228x168_4546c535.jpg"
+			]
+		}, {
+			"star": 4,
+			"user": "user1",
+			"date": "2018-8-30",
+			"content": "我会捡起地上的广告纸，会给老奶奶让座位，会对店员说谢谢……纵然，我平庸，长相普通，脾气不好，曾经失败痛苦、伤心绝望，吃尽生活的苦，但我依然，想努力地成为一个温柔善良的人。",
+			"imgs": [
+				"https://imgs.qunarzz.com/p/tts6/1808/a0/87a306bd136a3f02.jpg_228x168_e4a6f686.jpg",
+				"https://imgs.qunarzz.com/p/tts9/1808/cf/9665dd42c5444502.jpg_228x168_9b48092c.jpg",
+				"https://imgs.qunarzz.com/p/tts0/1808/70/b1aa56499e511202.jpg_228x168_de250402.jpg"
+			]
+		}]
+	}
+}
+  
